@@ -33,8 +33,8 @@ body{
     border-radius: 50%;
     text-align: center;
     display: inline-block;
-    width: 20%;
-    height: 20%;
+    width: 20px;
+    height: 20px;
 }
 .editorial{
     color: white;
@@ -43,6 +43,9 @@ body{
     border-radius: 12px;
     padding: 5px;
     background-color: #14aaf5 ;
+}
+.quarterly{
+    line-height: 20px;
 }
 /*fine commons*/
 /*header*/
